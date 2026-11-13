@@ -8,10 +8,5 @@ This repository contains the publication data and manuscript for:
 **Published:** 12 November 2026
 **DOI:** 10.3389/fimmu.2026.1964602
 
-## Repository Structure
-* `manuscript/`: Contains the review article text and section outlines.
-* `data/`: Directory for storing extracted tabular data (e.g., medicinal plants, clinical trial findings).
-* `src/`: Directory for computational scripts.
-
 ## License
 Creative Commons Attribution License (CC BY).
